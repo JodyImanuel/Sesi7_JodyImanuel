@@ -1,2 +1,2 @@
-# Sesi7_JodyImanuel
-Sesi 7 - API Automation
+# Sesi7 - JodyImanuel - API Automation
+
