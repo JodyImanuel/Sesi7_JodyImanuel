@@ -17,6 +17,6 @@ Berikut merupakan cara untuk membuat Request API :
 3. Instal Mocha dengan command : npm install mocha --save-dev
 4. Buat folder "TestingAPI" untuk menyimpan file testing
 5. Kemudian buatlah file JS untuk melakukan beberapa method : GET, POST, PATCH, DELETE
-6. Untuk menjalan file testing, command : npx mocha TestingAPI/getUser.js
+6. Untuk menjalan file testing, command : npx mocha TestingAPI/GetUser/GetUser.js
 
 Sekian dan Terima Kasih :)
