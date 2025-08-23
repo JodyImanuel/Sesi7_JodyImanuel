@@ -1,11 +1,10 @@
 # Sesi7 - JodyImanuel - API Automation
 Step by step untuk run program : 
-1. Download file ZIP, kemudian extract
-2. Pastikan sudah melakukan instalasi Node.js
-3. Kemudian, setelah instalasi, cek versi dari Node.js dan NPM pada cmd
+1. Pastikan sudah melakukan instalasi Node.js
+2. Kemudian, setelah instalasi, cek versi dari Node.js dan NPM pada cmd
    - node -v
    - npm -v
-4. Kemudian lakukan instalasi Mocha, dengan command :
+3. Kemudian lakukan instalasi Mocha, dengan command :
    - npm install mocha --save-dev
    - npm install -g mocha
    Cek juga versi dari Mocha :
